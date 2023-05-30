@@ -1,0 +1,2 @@
+INSERT INTO TBL_CLIENT(ID,NOME,EMAIL) VALUES (1,'Maria Silva','ma@gmail.com');
+INSERT INTO TBL_CLIENT(ID,NOME,EMAIL) VALUES (2,'Homer J.','hom@gmail.com');
